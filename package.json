@@ -3,7 +3,7 @@
   "version": "0.1.0",
   "description": "run commands on bitbucket webhook signals.",
   "main": "main.js",
-  "author": "Lionel Cuevas",
+  "author": "Lionel Cuevas <liocuevas@gmail.com>",
   "license": "LGPL",
   "dependencies": {
     "express": "~4.0",
