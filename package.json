@@ -3,7 +3,7 @@
   "version": "0.1.0",
   "description": "run commands on bitbucket webhook signals.",
   "main": "main.js",
-  "author": "New Wave Web",
+  "author": "Lionel Cuevas",
   "license": "LGPL",
   "dependencies": {
     "express": "~4.0",
@@ -12,7 +12,7 @@
   },
   "repository" : {
     "type" : "git",
-    "url" : "https://github.com/NewWaveWeb/bitbucket-webhook-deployer.git"
+    "url" : "https://github.com/liocuevas/bitbucket-webhook-deployer.git"
   },
   "devDependencies": {
   },
