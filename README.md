@@ -11,7 +11,7 @@ Currently, it runs on GNU/Linux and BSD OSes only.
 # Installation
 
 * `cd any-installation-dir`
-* `git clone https://github.com/NewWaveWeb/bitbucket-webhook-deployer.git `
+* `git clone https://github.com/liocuevas/bitbucket-webhook-deployer.git `
 * `cd bitbucket-webhook-deployer`
 * `npm install`
 
